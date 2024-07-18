@@ -24,6 +24,7 @@ This project is a simple Morse code translator written in C. It translates a giv
     - When prompted, enter the message you want to translate to Morse code.
     - The program will output the Morse code translation.
 
+
 ## Example
 
 ```sh
